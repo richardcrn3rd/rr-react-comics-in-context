@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-import UserInterface from "./UserInterface"
-import StylesContext from "./StylesContext";
+import UserInterface from "./components/UserInterface"
+import StylesContext from "./components/StylesContext";
 
 
 function App() {
