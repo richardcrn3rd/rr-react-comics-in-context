@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import RequestFormButton from '../RequestFormButton'
+import RequestFormButton from './RequestFormButton'
 
 export default function SubmitForm() {
     return (
