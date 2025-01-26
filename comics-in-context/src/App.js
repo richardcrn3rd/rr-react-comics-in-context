@@ -29,7 +29,7 @@ function App() {
             fontSize: 50
           }}
         >
-          Welcome to my Comics Page!
+          Welcome to Richard's Comics Page!
         </h1>
         <UserInterface />
       </StylesContext.Provider>
